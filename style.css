@@ -1,0 +1,18 @@
+/*Timer Container height */
+.container-lg{
+    height: 70vh;
+}
+
+/*Increase Timer font-size*/
+span{
+    font-size: 50px;
+}
+
+/*Increase button width*/
+.btn{
+    width: 200px;
+    color: black;
+}
+.m-3{
+    margin-top: 200px;
+}
