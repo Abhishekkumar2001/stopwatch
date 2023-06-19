@@ -18,7 +18,7 @@ let intervelId;
 
 //adding event with start button
 startbtn.addEventListener("click", () => {
-  intervelId = setInterval(startTimer, 1);
+  intervelId = setInterval(startTimer, 10);
 })
 
 
